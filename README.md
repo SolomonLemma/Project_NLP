@@ -59,4 +59,3 @@ model is ExtraTreesClassifier with little overfitting behaviour. Naive Bayes mod
 difference of the scores and lower values of sensitivity (0.88) to predict maths from the actual. In conclusion, the Reddit administrator needs to be aware of some 
 misclassified categories of the subreddits. The company may need to use other alternative methods to control such misclassified posts since the nature of the posts are very 
 dynamic based on time and the situation to create wrong classification.
-
