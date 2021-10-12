@@ -1,4 +1,4 @@
-# Project 3: Classification of  Subreddit Data with NLP 
+# Project: Classification of  Subreddit Data with NLP 
 
 
 ## Objectives of the Project
